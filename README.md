@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeaceJM
 - 👀 I’m interested in data science and blockchain 
-- 🌱 I’m currently learning python and SQL
+- 🌱 I’m currently learning machine learning models and data visualization 
 - 💞️ I’m looking to collaborate on machine learning and applications
 
 <!---
