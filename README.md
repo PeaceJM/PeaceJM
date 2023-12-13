@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeaceJM
-- 👀 I’m interested in data science and blockchain 
-- 🌱 I’m currently learning machine learning models and data visualization 
+- 👀 I’m interested in AI and bioinformatics 
+- 🌱 I’m currently working in clinical informatics 
 - 💞️ I’m looking to collaborate on machine learning and AI projects
 
 <!---
