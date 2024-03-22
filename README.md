@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PeaceJM
-- 👀 I’m interested in AI and bioinformatics 
-- 🌱 I’m currently working in clinical informatics 
-- 💞️ I’m looking to collaborate on machine learning and AI projects
+- 👋 Hi, I’m Peace Maddox
+- 👀 I’m interested in data science and bioinformatics 
+- 🌱 I’m currently working in clinical informatics and oncology research
+- 💞️ I’m looking to showcase my R and python skillset 
 
 <!---
 PeaceJM/PeaceJM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
