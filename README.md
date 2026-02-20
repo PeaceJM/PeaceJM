@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peace Maddox
 - 👀 I’m interested in data science and bioinformatics 
-- 🌱 I’m currently working in clinical informatics and oncology research
+- 🌱 I’m currently a bioinformatics and biological data science PSM student 
 - 💞️ I’m looking to showcase my R and python skills 
 
 <!---
